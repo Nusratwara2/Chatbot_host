@@ -4,6 +4,8 @@ It helps you search and book flights quickly by collecting your travel details l
 
 
 ![Chatbot Screenshot](airplane.jpeg)
+<img src="airplane.jpeg" alt="Chatbot Screenshot" width="800" height="600">
+
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
