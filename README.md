@@ -2,8 +2,6 @@
 It helps you search and book flights quickly by collecting your travel details like departure city, destination, travel dates, passenger count, and class preference etc.. Whether you're planning a one-way or round-trip journey, MyFlight makes the process fast, simple, and conversational.
 
 
-
-![Chatbot Screenshot](airplane.jpeg)
 <img src="airplane.jpeg" alt="Chatbot Screenshot" width="800" height="600">
 
 
