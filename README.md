@@ -24,7 +24,7 @@ It helps you search and book flights quickly by collecting your travel details l
   </style>
 </head>
 <body>
-  <img src="airplane.jpeg" alt="Airplane">
+  <img src="airplane.jpeg" alt="Airplane" width="800" height="600">
 </body>
 </html>
 
