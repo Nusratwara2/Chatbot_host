@@ -2,7 +2,32 @@
 It helps you search and book flights quickly by collecting your travel details like departure city, destination, travel dates, passenger count, and class preference etc.. Whether you're planning a one-way or round-trip journey, MyFlight makes the process fast, simple, and conversational.
 
 
-<img src="airplane.jpeg" alt="Chatbot Screenshot" width="800" height="600">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Split Background Page</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background: linear-gradient(to right, yellow 50%, black 50%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    img {
+      width: 800px;
+      height: auto;
+      border: 5px solid white; /* Optional: adds visibility if part overlaps black */
+    }
+  </style>
+</head>
+<body>
+  <img src="airplane.jpeg" alt="Airplane">
+</body>
+</html>
+
 
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
