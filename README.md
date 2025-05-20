@@ -1,3 +1,6 @@
+"MyFlight is your smart virtual assistant for flight bookings and cancellations.
+It helps you search and book flights quickly by collecting your travel details like departure city, destination, travel dates, passenger count, and class preference etc.. Whether you're planning a one-way or round-trip journey, MyFlight makes the process fast, simple, and conversational."
+
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   chat-icon="https:&#x2F;&#x2F;fastly.picsum.photos&#x2F;id&#x2F;888&#x2F;5000&#x2F;2813.jpg?hmac=3XtGF_LkOPI7BEE5ktdpxgNZZKNOPqIiQZqoOL1b2y8"
